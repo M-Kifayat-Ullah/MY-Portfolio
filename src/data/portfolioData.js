@@ -31,7 +31,7 @@ export const personalInfo = {
       description: "Animal disease detection mobile & backend system using Convolutional Neural Networks.",
       tech: ["Python", "PyTorch", "Django DRF", "React Native"],
       github: "https://github.com/M-Kifayat-Ullah/Myapp.git",
-      demo: "Coming Soon",
+      demo: "#",
     },
     {
       id: "pharmacy",
@@ -49,7 +49,7 @@ export const personalInfo = {
       description: "Production-ready REST API featuring JWT authentication, permission classes, and OpenAPI docs.",
       tech: ["Django DRF", "JWT", "SQLite", "Docker","Github Actions"],
       github: "https://github.com/M-Kifayat-Ullah/Blog-REST-API.git",
-      demo: "Comming Soon",
+      demo: "#",
     },
     {
       id: "ecommerce",
@@ -57,8 +57,8 @@ export const personalInfo = {
       badge: "Coming Soon",
       description: "Lightweight multi-vendor marketplace tailored for local merchant storefronts and fast routing.",
       tech: ["Django DRF", "React Native", "Celery"],
-      github: "Comming Soon",
-      demo: "Soon",
+      github: "#",
+      demo: "#",
     }
   ];
   
