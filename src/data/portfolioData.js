@@ -31,25 +31,25 @@ export const personalInfo = {
       description: "Animal disease detection mobile & backend system using Convolutional Neural Networks.",
       tech: ["Python", "PyTorch", "Django DRF", "React Native"],
       github: "https://github.com/M-Kifayat-Ullah/Myapp.git",
-      demo: "#",
+      demo: "Coming Soon",
     },
     {
       id: "pharmacy",
       title: "Pharmacy Management & Billing",
       badge: "Deployed ⭐",
       description: "Custom desktop & local server management system with ESC/POS direct receipt printing.",
-      tech: ["Python", "Django", "MySQL"],
+      tech: ["Python", "Django", "SQLite"],
       github: "https://github.com/M-Kifayat-Ullah/Medical-Store-Managment-System-Using-Tinkter.git",
-      demo: "#",
+      demo: "https://kifayatkhan.pythonanywhere.com/",
     },
     {
       id: "blog-api",
       title: "Blog REST API",
       badge: "API",
       description: "Production-ready REST API featuring JWT authentication, permission classes, and OpenAPI docs.",
-      tech: ["Django DRF", "JWT", "PostgreSQL", "Docker"],
+      tech: ["Django DRF", "JWT", "SQLite", "Docker","Github Actions"],
       github: "https://github.com/M-Kifayat-Ullah/Blog-REST-API.git",
-      demo: "#",
+      demo: "Comming Soon",
     },
     {
       id: "ecommerce",
@@ -57,8 +57,8 @@ export const personalInfo = {
       badge: "Coming Soon",
       description: "Lightweight multi-vendor marketplace tailored for local merchant storefronts and fast routing.",
       tech: ["Django DRF", "React Native", "Celery"],
-      github: "#",
-      demo: "#",
+      github: "Comming Soon",
+      demo: "Soon",
     }
   ];
   
@@ -90,7 +90,7 @@ export const personalInfo = {
       period: "2021 - 2025"
     },
     {
-      degree: "ICS Physics",
+      degree: "ICS Computer Science",
       institution: "Punjab Group of Colleges",
       period: "2019 - 2021"
     }
